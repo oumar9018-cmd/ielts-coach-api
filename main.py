@@ -1,1 +1,170 @@
-IiIiSUVMVFMgUHJlcCBDb2FjaCBiYWNrZW5kIOKAlCBtaW5pbWFsIEZhc3RBUEkgc2VydmljZS4KCkVuZHBvaW50czoKICBHRVQgIC9oZWFsdGggICAgICAgICAgICAgICAgIOKAlCBsaXZlbmVzcyBjaGVjawogIFBPU1QgL2llbHRzL3dyaXRpbmctZmVlZGJhY2sg4oCUIEFJIGJhbmQtc2NvcmUgZ3JhZGluZyBmb3IgSUVMVFMgV3JpdGluZyBUYXNrIDEvMgoKRW52OgogIEdST1FfQVBJX0tFWSAg4oCUIEdyb3EgQVBJIGtleSAob3BlbmFpLWNvbXBhdGlibGUgZW5kcG9pbnQpCiIiIgppbXBvcnQganNvbiBhcyBqc29uX2xpYgppbXBvcnQgbG9nZ2luZwppbXBvcnQgb3MKaW1wb3J0IHJlCmltcG9ydCB0aW1lCgppbXBvcnQgaHR0cHgKZnJvbSBmYXN0YXBpIGltcG9ydCBGYXN0QVBJLCBIVFRQRXhjZXB0aW9uLCBSZXF1ZXN0CmZyb20gZmFzdGFwaS5taWRkbGV3YXJlLmNvcnMgaW1wb3J0IENPUlNNaWRkbGV3YXJlCmZyb20gcHlkYW50aWMgaW1wb3J0IEJhc2VNb2RlbCwgRmllbGQKCmxvZyA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCJpZWx0cy1iYWNrZW5kIikKCmFwcCA9IEZhc3RBUEkodGl0bGU9IklFTFRTIENvYWNoIEFQSSIsIHZlcnNpb249IjEuMC4wIikKCmFwcC5hZGRfbWlkZGxld2FyZSgKICAgIENPUlNNaWRkbGV3YXJlLAogICAgYWxsb3dfb3JpZ2lucz1bIioiXSwgICMgQ2hyb21lIGV4dGVuc2lvbiBjYWxscyBkaXJlY3RseTsgbm8gY29va2llcy9hdXRoCiAgICBhbGxvd19tZXRob2RzPVsiR0VUIiwgIlBPU1QiXSwKICAgIGFsbG93X2hlYWRlcnM9WyJDb250ZW50LVR5cGUiXSwKKQoKIyAtLS0tLS0tLS0tIHNpbXBsZSBpbi1tZW1vcnkgcmF0ZSBsaW1pdGluZyAtLS0tLS0tLS0tCl9yYXRlX2J1Y2tldHM6IGRpY3Rbc3RyLCBsaXN0W2Zsb2F0XV0gPSB7fQoKCmRlZiBfY2xpZW50X2lwKHJlcXVlc3Q6IFJlcXVlc3QpIC0+IHN0cjoKICAgIGZ3ZCA9IHJlcXVlc3QuaGVhZGVycy5nZXQoIngtZm9yd2FyZGVkLWZvciIsICIiKQogICAgaWYgZndkOgogICAgICAgIHJldHVybiBmd2Quc3BsaXQoIiwiKVswXS5zdHJpcCgpCiAgICByZXR1cm4gcmVxdWVzdC5jbGllbnQuaG9zdCBpZiByZXF1ZXN0LmNsaWVudCBlbHNlICJ1bmtub3duIgoKCmRlZiBfcmF0ZV9jaGVjayhrZXk6IHN0ciwgbGltaXQ6IGludCwgd2luZG93X3NlYzogaW50ID0gNjApIC0+IGJvb2w6CiAgICBub3cgPSB0aW1lLnRpbWUoKQogICAgc3RhbXBzID0gW3QgZm9yIHQgaW4gX3JhdGVfYnVja2V0cy5nZXQoa2V5LCBbXSkgaWYgbm93IC0gdCA8IHdpbmRvd19zZWNdCiAgICBpZiBsZW4oc3RhbXBzKSA+PSBsaW1pdDoKICAgICAgICBfcmF0ZV9idWNrZXRzW2tleV0gPSBzdGFtcHMKICAgICAgICByZXR1cm4gRmFsc2UKICAgIHN0YW1wcy5hcHBlbmQobm93KQogICAgX3JhdGVfYnVja2V0c1trZXldID0gc3RhbXBzCiAgICByZXR1cm4gVHJ1ZQoKCiMgLS0tLS0tLS0tLSBtb2RlbHMgLS0tLS0tLS0tLQpjbGFzcyBJZWx0c1dyaXRpbmdSZXEoQmFzZU1vZGVsKToKICAgIHRhc2tfdHlwZTogc3RyID0gRmllbGQoLi4uLCBkZXNjcmlwdGlvbj0idGFzazEgb3IgdGFzazIiKQogICAgcHJvbXB0OiBzdHIgPSBGaWVsZCguLi4sIGRlc2NyaXB0aW9uPSJUaGUgSUVMVFMgd3JpdGluZyBwcm9tcHQgdGV4dCIpCiAgICBlc3NheTogc3RyID0gRmllbGQoLi4uLCBkZXNjcmlwdGlvbj0iVGhlIHN0dWRlbnQncyBlc3NheSB0ZXh0IikKCgpjbGFzcyBJZWx0c1dyaXRpbmdSZXNwKEJhc2VNb2RlbCk6CiAgICBiYW5kOiBmbG9hdAogICAgZmVlZGJhY2s6IHN0cgogICAgc3RyZW5ndGhzOiBsaXN0W3N0cl0KICAgIGltcHJvdmVtZW50czogbGlzdFtzdHJdCgoKSUVMVFNfV1JJVElOR19TWVNURU0gPSAoCiAgICAiWW91IGFyZSBhIHN0cmljdCBJRUxUUyBleGFtaW5lciBncmFkaW5nIGEgV3JpdGluZyB7dGFza30gZXNzYXkuICIKICAgICJTY29yZSBvbiBmb3VyIGNyaXRlcmlhOiBUYXNrIEFjaGlldmVtZW50LCBDb2hlcmVuY2UgYW5kIENvaGVzaW9uLCAiCiAgICAiTGV4aWNhbCBSZXNvdXJjZSwgR3JhbW1hdGljYWwgUmFuZ2UgYW5kIEFjY3VyYWN5LiAiCiAgICAiUmV0dXJuIE9OTFkgdmFsaWQgSlNPTiAobm8gbWFya2Rvd24sIG5vIGNvZGUgZmVuY2VzLCBubyBleHRyYSB0ZXh0KSAiCiAgICAid2l0aCBleGFjdGx5IHRoZXNlIGtleXM6ICIKICAgICd7ImJhbmQiOiA8b3ZlcmFsbCBiYW5kIDAtOSBpbiAwLjUgc3RlcHM+LCAnCiAgICAnImZlZWRiYWNrIjogIjwyLTMgc2VudGVuY2VzIG9mIG92ZXJhbGwgZmVlZGJhY2s+IiwgJwogICAgJyJzdHJlbmd0aHMiOiBbIjxzdHJlbmd0aCAxPiIsICI8c3RyZW5ndGggMj4iXSwgJwogICAgJyJpbXByb3ZlbWVudHMiOiBbIjxpbXByb3ZlbWVudCAxPiIsICI8aW1wcm92ZW1lbnQgMj4iXX0nCikKCgpkZWYgX2NsYW1wX2JhbmQodmFsdWUpIC0+IGZsb2F0OgogICAgdHJ5OgogICAgICAgIGIgPSBmbG9hdCh2YWx1ZSkKICAgIGV4Y2VwdCAoVHlwZUVycm9yLCBWYWx1ZUVycm9yKToKICAgICAgICBiID0gNS4wCiAgICBiID0gbWF4KDAuMCwgbWluKDkuMCwgYikpCiAgICByZXR1cm4gcm91bmQoYiAqIDIpIC8gMgoKCmRlZiBfcGFyc2VfaWVsdHNfZ3JhZGluZyh0ZXh0OiBzdHIpIC0+IGRpY3Q6CiAgICAiIiJEZWZlbnNpdmVseSBwYXJzZSB0aGUgZXhhbWluZXIgTExNJ3MgSlNPTi4gRmFsbHMgYmFjayBncmFjZWZ1bGx5LiIiIgogICAgZGF0YSA9IE5vbmUKICAgIGlmIHRleHQ6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBkYXRhID0ganNvbl9saWIubG9hZHModGV4dCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICBkYXRhID0gTm9uZQogICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKGRhdGEsIGRpY3QpOgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBtID0gcmUuc2VhcmNoKHIiXHsuKlx9IiwgdGV4dCwgcmUuRE9UQUxMKQogICAgICAgICAgICAgICAgZGF0YSA9IGpzb25fbGliLmxvYWRzKG0uZ3JvdXAoMCkpIGlmIG0gZWxzZSBOb25lCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICBkYXRhID0gTm9uZQogICAgICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShkYXRhLCBkaWN0KToKICAgICAgICAgICAgICAgIGRhdGEgPSBOb25lCiAgICBpZiBkYXRhIGlzIE5vbmU6CiAgICAgICAgZGF0YSA9IHt9CiAgICBzdHJlbmd0aHMgPSBkYXRhLmdldCgic3RyZW5ndGhzIikKICAgIGltcHJvdmVtZW50cyA9IGRhdGEuZ2V0KCJpbXByb3ZlbWVudHMiKQogICAgcmV0dXJuIHsKICAgICAgICAiYmFuZCI6IF9jbGFtcF9iYW5kKGRhdGEuZ2V0KCJiYW5kIiwgNS4wKSksCiAgICAgICAgImZlZWRiYWNrIjogc3RyKGRhdGEuZ2V0KCJmZWVkYmFjayIpIG9yICJLZWVwIHByYWN0aXNpbmcg4oCUIGZvY3VzIG9uIGNsZWFyIHN0cnVjdHVyZSBhbmQgYWNjdXJhdGUgZ3JhbW1hci4iKS5zdHJpcCgpLAogICAgICAgICJzdHJlbmd0aHMiOiBbc3RyKHMpIGZvciBzIGluIHN0cmVuZ3Roc11bOjJdIGlmIGlzaW5zdGFuY2Uoc3RyZW5ndGhzLCBsaXN0KSBlbHNlIFtdLAogICAgICAgICJpbXByb3ZlbWVudHMiOiBbc3RyKHMpIGZvciBzIGluIGltcHJvdmVtZW50c11bOjJdIGlmIGlzaW5zdGFuY2UoaW1wcm92ZW1lbnRzLCBsaXN0KSBlbHNlIFtdLAogICAgfQoKCiMgLS0tLS0tLS0tLSByb3V0ZXMgLS0tLS0tLS0tLQpAYXBwLmdldCgiL2hlYWx0aCIpCmRlZiBoZWFsdGgoKToKICAgIHJldHVybiB7Im9rIjogVHJ1ZSwgInNlcnZpY2UiOiAiaWVsdHMtY29hY2gtYXBpIn0KCgpAYXBwLnBvc3QoIi9pZWx0cy93cml0aW5nLWZlZWRiYWNrIiwgcmVzcG9uc2VfbW9kZWw9SWVsdHNXcml0aW5nUmVzcCkKYXN5bmMgZGVmIGllbHRzX3dyaXRpbmdfZmVlZGJhY2socmVxOiBJZWx0c1dyaXRpbmdSZXEsIHJlcXVlc3Q6IFJlcXVlc3QpOgogICAgIiIiR3JhZGUgYW4gSUVMVFMgV3JpdGluZyBUYXNrIDEvMiBlc3NheS4gUmV0dXJucyBiYW5kIDAtOSAoMC41IHN0ZXBzKSArCiAgICBmZWVkYmFjayArIDIgc3RyZW5ndGhzICsgMiBpbXByb3ZlbWVudHMuIFJhdGUtbGltaXRlZDogMTAvSVAvbWluLiIiIgogICAgaWYgbm90IF9yYXRlX2NoZWNrKGYiaWVsdHMtd3JpdGluZzp7X2NsaWVudF9pcChyZXF1ZXN0KX0iLCAxMCk6CiAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig0MjksICJUb28gbWFueSByZXF1ZXN0cyDigJQgc2xvdyBkb3duLiIpCiAgICB0YXNrX3R5cGUgPSAocmVxLnRhc2tfdHlwZSBvciAiIikuc3RyaXAoKS5sb3dlcigpCiAgICBpZiB0YXNrX3R5cGUgbm90IGluICgidGFzazEiLCAidGFzazIiKToKICAgICAgICByYWlzZSBIVFRQRXhjZXB0aW9uKDQwMCwgInRhc2tfdHlwZSBtdXN0IGJlICd0YXNrMScgb3IgJ3Rhc2syJyIpCiAgICBlc3NheSA9IChyZXEuZXNzYXkgb3IgIiIpLnN0cmlwKCkKICAgIGlmIGxlbihlc3NheSkgPCA1MDoKICAgICAgICByYWlzZSBIVFRQRXhjZXB0aW9uKDQwMCwgImVzc2F5IHRvbyBzaG9ydCIpCiAgICBpZiBsZW4oZXNzYXkpID4gMjAwMDA6CiAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig0MDAsICJlc3NheSB0b28gbG9uZyIpCiAgICBncm9xX2tleSA9IG9zLmVudmlyb24uZ2V0KCJHUk9RX0FQSV9LRVkiLCAiIikKICAgIGlmIG5vdCBncm9xX2tleToKICAgICAgICByYWlzZSBIVFRQRXhjZXB0aW9uKDUwMywgImdyYWRpbmcgc2VydmljZSB1bmF2YWlsYWJsZSIpCiAgICBzeXN0ZW0gPSBJRUxUU19XUklUSU5HX1NZU1RFTS5mb3JtYXQodGFzaz0iVGFzayAxIiBpZiB0YXNrX3R5cGUgPT0gInRhc2sxIiBlbHNlICJUYXNrIDIiKQogICAgdHJ5OgogICAgICAgIGFzeW5jIHdpdGggaHR0cHguQXN5bmNDbGllbnQodGltZW91dD02MCkgYXMgY2xpZW50OgogICAgICAgICAgICByID0gYXdhaXQgY2xpZW50LnBvc3QoCiAgICAgICAgICAgICAgICAiaHR0cHM6Ly9hcGkuZ3JvcS5jb20vb3BlbmFpL3YxL2NoYXQvY29tcGxldGlvbnMiLAogICAgICAgICAgICAgICAgaGVhZGVycz17IkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7Z3JvcV9rZXl9IiwgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIn0sCiAgICAgICAgICAgICAgICBqc29uPXsKICAgICAgICAgICAgICAgICAgICAibW9kZWwiOiAib3BlbmFpL2dwdC1vc3MtMjBiIiwKICAgICAgICAgICAgICAgICAgICAibWVzc2FnZXMiOiBbCiAgICAgICAgICAgICAgICAgICAgICAgIHsicm9sZSI6ICJzeXN0ZW0iLCAiY29udGVudCI6IHN5c3RlbX0sCiAgICAgICAgICAgICAgICAgICAgICAgIHsicm9sZSI6ICJ1c2VyIiwgImNvbnRlbnQiOiAiUHJvbXB0OlxuIiArIChyZXEucHJvbXB0IG9yICIiKS5zdHJpcCgpWzoyMDAwXSArCiAgICAgICAgICAgICAgICAgICAgICAgICAiXG5cbkVzc2F5OlxuIiArIGVzc2F5fSwKICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICJtYXhfdG9rZW5zIjogNzAwLAogICAgICAgICAgICAgICAgICAgICJ0ZW1wZXJhdHVyZSI6IDAuMywKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICkKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgbG9nLmV4Y2VwdGlvbigiaWVsdHMtd3JpdGluZzogZ3JvcSByZXF1ZXN0IGZhaWxlZCIpCiAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig1MDIsICJncmFkaW5nIHNlcnZpY2UgZXJyb3IiKQogICAgaWYgci5zdGF0dXNfY29kZSAhPSAyMDA6CiAgICAgICAgbG9nLndhcm5pbmcoImllbHRzLXdyaXRpbmc6IGdyb3Egbm9uLTIwMCIpCiAgICAgICAgcmFpc2UgSFRUUEV4Y2VwdGlvbig1MDIsICJncmFkaW5nIHNlcnZpY2UgZXJyb3IiKQogICAgdHJ5OgogICAgICAgIGJvZHkgPSByLmpzb24oKQogICAgICAgIHRleHQgPSBib2R5WyJjaG9pY2VzIl1bMF1bIm1lc3NhZ2UiXVsiY29udGVudCJdCiAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgIGxvZy53YXJuaW5nKCJpZWx0cy13cml0aW5nOiB1bmV4cGVjdGVkIGdyb3EgcmVzcG9uc2Ugc2hhcGUiKQogICAgICAgIHJhaXNlIEhUVFBFeGNlcHRpb24oNTAyLCAiZ3JhZGluZyBzZXJ2aWNlIGVycm9yIikKICAgIHJldHVybiBfcGFyc2VfaWVsdHNfZ3JhZGluZyh0ZXh0KQo=
+"""IELTS Prep Coach backend — minimal FastAPI service.
+
+Endpoints:
+  GET  /health                 — liveness check
+  POST /ielts/writing-feedback — AI band-score grading for IELTS Writing Task 1/2
+
+Env:
+  GROQ_API_KEY  — Groq API key (openai-compatible endpoint)
+"""
+import json as json_lib
+import logging
+import os
+import re
+import time
+
+import httpx
+from fastapi import FastAPI, HTTPException, Request
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel, Field
+
+log = logging.getLogger("ielts-backend")
+
+app = FastAPI(title="IELTS Coach API", version="1.0.0")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Chrome extension calls directly; no cookies/auth
+    allow_methods=["GET", "POST"],
+    allow_headers=["Content-Type"],
+)
+
+# ---------- simple in-memory rate limiting ----------
+_rate_buckets: dict[str, list[float]] = {}
+
+
+def _client_ip(request: Request) -> str:
+    fwd = request.headers.get("x-forwarded-for", "")
+    if fwd:
+        return fwd.split(",")[0].strip()
+    return request.client.host if request.client else "unknown"
+
+
+def _rate_check(key: str, limit: int, window_sec: int = 60) -> bool:
+    now = time.time()
+    stamps = [t for t in _rate_buckets.get(key, []) if now - t < window_sec]
+    if len(stamps) >= limit:
+        _rate_buckets[key] = stamps
+        return False
+    stamps.append(now)
+    _rate_buckets[key] = stamps
+    return True
+
+
+# ---------- models ----------
+class IeltsWritingReq(BaseModel):
+    task_type: str = Field(..., description="task1 or task2")
+    prompt: str = Field(..., description="The IELTS writing prompt text")
+    essay: str = Field(..., description="The student's essay text")
+
+
+class IeltsWritingResp(BaseModel):
+    band: float
+    feedback: str
+    strengths: list[str]
+    improvements: list[str]
+
+
+IELTS_WRITING_SYSTEM = (
+    "You are a strict IELTS examiner grading a Writing {task} essay. "
+    "Score on four criteria: Task Achievement, Coherence and Cohesion, "
+    "Lexical Resource, Grammatical Range and Accuracy. "
+    "Return ONLY valid JSON (no markdown, no code fences, no extra text) "
+    "with exactly these keys: "
+    '{"band": <overall band 0-9 in 0.5 steps>, '
+    '"feedback": "<2-3 sentences of overall feedback>", '
+    '"strengths": ["<strength 1>", "<strength 2>"], '
+    '"improvements": ["<improvement 1>", "<improvement 2>"]}'
+)
+
+
+def _clamp_band(value) -> float:
+    try:
+        b = float(value)
+    except (TypeError, ValueError):
+        b = 5.0
+    b = max(0.0, min(9.0, b))
+    return round(b * 2) / 2
+
+
+def _parse_ielts_grading(text: str) -> dict:
+    """Defensively parse the examiner LLM's JSON. Falls back gracefully."""
+    data = None
+    if text:
+        try:
+            data = json_lib.loads(text)
+        except Exception:
+            data = None
+        if not isinstance(data, dict):
+            try:
+                m = re.search(r"\{.*\}", text, re.DOTALL)
+                data = json_lib.loads(m.group(0)) if m else None
+            except Exception:
+                data = None
+            if not isinstance(data, dict):
+                data = None
+    if data is None:
+        data = {}
+    strengths = data.get("strengths")
+    improvements = data.get("improvements")
+    return {
+        "band": _clamp_band(data.get("band", 5.0)),
+        "feedback": str(data.get("feedback") or "Keep practising — focus on clear structure and accurate grammar.").strip(),
+        "strengths": [str(s) for s in strengths][:2] if isinstance(strengths, list) else [],
+        "improvements": [str(s) for s in improvements][:2] if isinstance(improvements, list) else [],
+    }
+
+
+# ---------- routes ----------
+@app.get("/health")
+def health():
+    return {"ok": True, "service": "ielts-coach-api"}
+
+
+@app.post("/ielts/writing-feedback", response_model=IeltsWritingResp)
+async def ielts_writing_feedback(req: IeltsWritingReq, request: Request):
+    """Grade an IELTS Writing Task 1/2 essay. Returns band 0-9 (0.5 steps) +
+    feedback + 2 strengths + 2 improvements. Rate-limited: 10/IP/min."""
+    if not _rate_check(f"ielts-writing:{_client_ip(request)}", 10):
+        raise HTTPException(429, "Too many requests — slow down.")
+    task_type = (req.task_type or "").strip().lower()
+    if task_type not in ("task1", "task2"):
+        raise HTTPException(400, "task_type must be 'task1' or 'task2'")
+    essay = (req.essay or "").strip()
+    if len(essay) < 50:
+        raise HTTPException(400, "essay too short")
+    if len(essay) > 20000:
+        raise HTTPException(400, "essay too long")
+    groq_key = os.environ.get("GROQ_API_KEY", "")
+    if not groq_key:
+        raise HTTPException(503, "grading service unavailable")
+    system = IELTS_WRITING_SYSTEM.format(task="Task 1" if task_type == "task1" else "Task 2")
+    try:
+        async with httpx.AsyncClient(timeout=60) as client:
+            r = await client.post(
+                "https://api.groq.com/openai/v1/chat/completions",
+                headers={"Authorization": f"Bearer {groq_key}", "Content-Type": "application/json"},
+                json={
+                    "model": "openai/gpt-oss-20b",
+                    "messages": [
+                        {"role": "system", "content": system},
+                        {"role": "user", "content": "Prompt:\n" + (req.prompt or "").strip()[:2000] +
+                         "\n\nEssay:\n" + essay},
+                    ],
+                    "max_tokens": 700,
+                    "temperature": 0.3,
+                },
+            )
+    except Exception:
+        log.exception("ielts-writing: groq request failed")
+        raise HTTPException(502, "grading service error")
+    if r.status_code != 200:
+        log.warning("ielts-writing: groq non-200")
+        raise HTTPException(502, "grading service error")
+    try:
+        body = r.json()
+        text = body["choices"][0]["message"]["content"]
+    except Exception:
+        log.warning("ielts-writing: unexpected groq response shape")
+        raise HTTPException(502, "grading service error")
+    return _parse_ielts_grading(text)
