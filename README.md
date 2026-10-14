@@ -1,1 +1,23 @@
-IyBJRUxUUyBDb2FjaCBBUEkKCk1pbmltYWwgYmFja2VuZCBmb3IgdGhlICoqSUVMVFMgUHJhY3RpY2UgQ29hY2gqKiBDaHJvbWUgZXh0ZW5zaW9uLgoKIyMgRW5kcG9pbnRzCgotIGBHRVQgL2hlYWx0aGAg4oCUIGxpdmVuZXNzIGNoZWNrCi0gYFBPU1QgL2llbHRzL3dyaXRpbmctZmVlZGJhY2tgIOKAlCBncmFkZXMgYW4gSUVMVFMgV3JpdGluZyBUYXNrIDEvMiBlc3NheSB3aXRoIEFJLCByZXR1cm5zIGJhbmQgc2NvcmUgKDDigJM5KSwgZmVlZGJhY2ssIHN0cmVuZ3RocyBhbmQgaW1wcm92ZW1lbnRzCgojIyBEZXBsb3kgKFJlbmRlcikKCjEuIFB1c2ggdG8gR2l0SHViCjIuIFJlbmRlciDihpIgTmV3IFdlYiBTZXJ2aWNlIOKGkiBjb25uZWN0IHRoaXMgcmVwbwozLiBCdWlsZDogYHBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHRgCjQuIFN0YXJ0OiBgdXZpY29ybiBtYWluOmFwcCAtLWhvc3QgMC4wLjAuMCAtLXBvcnQgJFBPUlRgCjUuIFNldCBlbnYgdmFyIGBHUk9RX0FQSV9LRVlgCgojIyBMb2NhbAoKYGBgYmFzaApwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0CkdST1FfQVBJX0tFWT14eHggdXZpY29ybiBtYWluOmFwcCAtLXJlbG9hZApgYGAK
+# IELTS Coach API
+
+Minimal backend for the **IELTS Practice Coach** Chrome extension.
+
+## Endpoints
+
+- `GET /health` — liveness check
+- `POST /ielts/writing-feedback` — grades an IELTS Writing Task 1/2 essay with AI, returns band score (0–9), feedback, strengths and improvements
+
+## Deploy (Render)
+
+1. Push to GitHub
+2. Render → New Web Service → connect this repo
+3. Build: `pip install -r requirements.txt`
+4. Start: `uvicorn main:app --host 0.0.0.0 --port $PORT`
+5. Set env var `GROQ_API_KEY`
+
+## Local
+
+```bash
+pip install -r requirements.txt
+GROQ_API_KEY=xxx uvicorn main:app --reload
+```
